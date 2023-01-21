@@ -1,15 +1,21 @@
 # Ignacio Peñamaria here 👋
 
 <h2 align="center">About me 🔰</h2>
-
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 I am passionate about technology all the time I am learning new things, I like design and marketing but I love logic and back end development
+<br/>
+<br/>
 
-- ⚡ Quick bio:                      A kind of traveler-foodLover-gamer-coder-programmer🚀
-- 🔭 I’m currently working on:       Personal projects, I am open to work🙌",
-- 🌱 I’m currently learning:         MongoDB  --- We are learning new things all the time🧠
-- 👯 I’m looking to collaborate on:  Web related projects 🌎
-- 💬 Ask me about:                   JavaScript, HTML, CSS, React, Redux,Node.js,Typescript
+**Talking about Personal Stuffs:**
 
+* ⚡ Quick bio:                      A kind of traveler-foodLover-gamer-coder-programmer🚀
+* 🔭 I’m currently working on:       Personal projects, I am open to work🙌",
+* 🌱 I’m currently learning:         MongoDB  --- We are learning new things all the time🧠
+* 👯 I’m looking to collaborate on:  Web related projects 🌎
+* 💬 Ask me about:                   JavaScript, HTML, CSS, React, Redux,Node.js,Typescript
+* 📝 See my [Curriculum Vitae](https://docs.google.com/document/d/1ckFdi0hclgwZNRHmmJGFkPHNokGLrIGk1K3rFzTuEyI/edit?usp=sharing) to get more info.
+
+<br/>
 
 <h2 align="center">You can reach me at 🌐</h2>
 
