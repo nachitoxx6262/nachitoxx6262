@@ -10,7 +10,7 @@ I am passionate about technology all the time I am learning new things, I like d
 
 * ⚡ Quick bio:                      A kind of traveler-foodLover-gamer-coder-programmer🚀
 * 🔭 I’m currently working on:       Personal projects, I am open to work🙌",
-* 🌱 I’m currently learning:         MongoDB  --- We are learning new things all the time🧠
+* 🌱 I’m currently learning:         MongoDB Astro Tailwind  --- We are learning new things all the time🧠
 * 👯 I’m looking to collaborate on:  Web related projects 🌎
 * 💬 Ask me about:                   JavaScript, HTML, CSS, React, Redux,Node.js,Typescript
 * 📝 See my [Curriculum Vitae](https://docs.google.com/document/d/1ckFdi0hclgwZNRHmmJGFkPHNokGLrIGk1K3rFzTuEyI/edit?usp=sharing) to get more info.
