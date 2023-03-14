@@ -1,7 +1,7 @@
 # Ignacio Peñamaria here 👋
 
 <h2 align="center">About me 🔰</h2>
-<img align="right" src="https://imgur.com/a/JI5JiCf" />
+<img align="right" src="https://i.imgur.com/vUlrXf5.png" />
 I am passionate about technology all the time I am learning new things, I like design and marketing but I love logic and back end development
 <br/>
 <br/>
