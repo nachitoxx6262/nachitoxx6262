@@ -54,7 +54,7 @@ I am passionate about technology all the time I am learning new things, I like d
 <h2 align="center">Github stats 📊</h2>
 <h4 align="center">Top langs 👅</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachitoxx6262&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /><img src="https://github-readme-stats.vercel.app/api?username=nachitoxx6262&show_icons=true&theme=dracula" alt="nachitoxx6262" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachitoxx6262&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /><img src="https://github-readme-stats.vercel.app/api?username=nachitoxx6262&show_icons=true&theme=tokyonight" alt="nachitoxx6262" /></p>
 
 
 ---
