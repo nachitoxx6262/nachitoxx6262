@@ -1,3 +1,4 @@
+<img width="1280" height="360" alt="github-dark-1280x360" src="https://github.com/user-attachments/assets/d45cdeb3-53eb-4cc0-b5a4-350458daa565" />
 <h1 align="center">Ignacio Peñamaría</h1>
 
 <p align="center">
